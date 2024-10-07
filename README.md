@@ -1,5 +1,4 @@
-# Documentación del Repositorio de Redes Neuronales
-
+# IMPLEMENTACION Y ENTRENAMIENTO DE REDES NEURONALES EN AWS  CASO HIPOTETICO DE SEGUROS MEDICOS
 ## Índice
 1. [Introducción](#introducción)
 2. [Configuración del Entorno](#configuración-del-entorno)
